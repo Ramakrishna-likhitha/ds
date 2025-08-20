@@ -1,0 +1,17 @@
+URL: Uniform resource locator
+    .com-commercial
+    .in- India
+    .au-Australia
+
+Command prompt commands:
+    cd - change directory
+    del-delete a file
+    md - make a new directory
+    rmdir- remove a directory
+    cd.. move one directory up
+.....................................
+    help - list all commands
+    exit - close cmd
+    copy - copy files
+    move - move files
+ 
